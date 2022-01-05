@@ -2,3 +2,6 @@
 .AppleDouble
 .LSOverride
 ._*
+
+Gemfile.lock
+_site/
