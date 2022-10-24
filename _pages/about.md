@@ -24,9 +24,9 @@ The binary properties of open clusters place crucial constraints on star formati
 
 **This paper ([Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)) was selected by AAS Journal Author Series ([Link](https://youtu.be/y2m3ahIyY94)). And also selected as the finalist of best student paper award by American Statistical Society ([Link](https://astrostat.org/competition/results_2021.html)).**
 
-<img src="../images/RASposter2-1.jpg" alt="image" style="width:800px;" />
+<!-- <img src="../images/RASposter2-1.jpg" alt="image" style="width:800px;" />
 <img src="../images/RASposter2-2.jpg" alt="image" style="width:800px;" />
-<img src="../images/RASposter2-3.jpg" alt="image" style="width:800px;" />
+<img src="../images/RASposter2-3.jpg" alt="image" style="width:800px;" /> -->
 <img src="../images/RASposter2-4.jpg" alt="image" style="width:800px;" />
 
 
