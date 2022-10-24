@@ -22,7 +22,7 @@ As cradles of stars and building blocks of galaxies, open clusters encode valuab
 
 The binary properties of open clusters place crucial constraints on star formation theory and clusters’ dynamical evolution. We develop a comprehensive approach that models the color-magnitude diagram of the cluster members as the mixture of single stars and photometric unresolved binaries to measure the binary fraction and mass ratio distribution of open clusters. By applying our method to NGC 3532 with the Gaia DR2 photometry data, for the first time, we unveil that the stars with smaller mass or in the inner region tend to have lower f_b and more positive value of γ_q due to the lack of low mass-ratio binaries. The clear dependences of binary properties on mass and radius are most likely caused by the internal dynamics. 
 
-**This paper ([Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)) was selected by AAS Journal Author Series ([Link](https://youtu.be/y2m3ahIyY94)). And also selected as the finalist of best student paper award by American Statistical Society ([Link](https://astrostat.org/competition/results_2021.html)).**
+This paper ([Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)) was selected by **AAS Journal Author Series** ([Link](https://youtu.be/y2m3ahIyY94)). And also selected as the finalist of **best student paper award** by American Statistical Society ([Link](https://astrostat.org/competition/results_2021.html)).
 
 <!-- <img src="../images/RASposter2-1.jpg" alt="image" style="width:800px;" />
 <img src="../images/RASposter2-2.jpg" alt="image" style="width:800px;" />
