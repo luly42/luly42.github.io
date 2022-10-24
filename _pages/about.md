@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Publications: [**ADS**](https://ui.adsabs.harvard.edu/public-libraries/51HATpbMQnS7c7aTOCUzsQ)
-Google Scholar:  [**Google Scholar**](https://scholar.google.com/citations?user=AYGrDKwAAAAJ)
+[**Google Scholar**](https://scholar.google.com/citations?user=AYGrDKwAAAAJ)
 
 
 ## MiMO: Mixture Model for Open Clusters in Color Magnitude Diagram
