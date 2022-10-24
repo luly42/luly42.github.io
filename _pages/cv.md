@@ -10,6 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-Publications: [**ADS**](https://ui.adsabs.harvard.edu/public-libraries/51HATpbMQnS7c7aTOCUzsQ)
 
-[Download CV](files/resume_2022.pdf)
+[Download CV](https://luly42.github.io/files/resume_2022.pdf)
