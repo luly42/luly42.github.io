@@ -28,7 +28,7 @@ This paper ([Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstrac
 <img src="../images/RASposter2-2.jpg" alt="image" style="width:800px;" />
 <img src="../images/RASposter2-3.jpg" alt="image" style="width:800px;" /> -->
 <img src="../images/RASposter2-4.jpg" alt="image" style="width:800px;" />
-
+<img src="../images/ASA.jpg" alt="image" style="width:800px;" /> 
 
 
 
